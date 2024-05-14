@@ -25,8 +25,12 @@ npm install
 ```
 
 4. Set up environment variables by creating a .env file in the backend directory.
+```bash
+Contact me at urskartik9@gmail.com for .env file
+```
+   
 
-##5. Start the server
+5. Start the server
 ```bash
 npm start
 ```
