@@ -31,11 +31,13 @@ npm install
 npm start
 ```
 
-Functionality
-User Authentication: Users can sign up and log in to the system.
-Blog Management: Authenticated users can create, edit, and delete their blog posts.
-Comments: Users can comment on blog posts.
+## Functionality
 
+- **User Authentication:** Users can sign up and log in to the system.
+- **Blog Management:** Authenticated users can create, edit, and delete their blog posts.
+- **Comments:** Users can comment on blog posts.
 
-Contributing
+## Contributing
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
