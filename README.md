@@ -15,16 +15,21 @@ To run the backend locally, follow these steps:
    ```bash
    git clone https://github.com/RKartik9/SneakersHub-Blog-Server
    
-2. # Navigate to the backend directory
-cd sneakersHub-Blog/backend
-
+2. Navigate to the backend directory
+ ```bash
+   cd sneakersHub-Blog/backend
+```
 3. Install dependencies
+```bash
 npm install
+```
 
 4 Set up environment variables by creating a .env file in the backend directory:
 
 5. Start the server
+```bash
 npm start
+```
 
 Functionality
 User Authentication: Users can sign up and log in to the system.
