@@ -12,8 +12,9 @@ To run the backend locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/RKartik9/SneakersHub-Blog-Server
+```
    
 2. Navigate to the backend directory
  ```bash
